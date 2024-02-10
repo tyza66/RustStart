@@ -3,8 +3,16 @@
   <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c4_variable4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c5_operator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c6_if/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c7_loop/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/target" />
       <excludeFolder url="file://$MODULE_DIR$/c4_variable4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c5_operator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c6_if/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c7_loop/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

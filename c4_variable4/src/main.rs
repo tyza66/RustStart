@@ -33,6 +33,18 @@ fn main() {
     for item in name4s {
         println!("{}", item);
     }
+
+    // 字符串转换为字符
+    let name5 = "hello";
+    for item in name5.chars() {
+        println!("字符：{}", item);
+    }
+
+    // 字符串拼接
+    let name6 = "hello";
+    let name7 = "world";
+    let name8 = name6.to_string() + name7;
+    println!("{}", name8);
 }
 
 fn show(name: &str) {
