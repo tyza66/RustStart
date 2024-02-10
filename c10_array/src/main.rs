@@ -10,7 +10,7 @@ fn main() {
 
     let arr2=[4, 5, 6,7];
     println!("{:?}", arr2);
-    let arr3:[&str;3]=["";3];
+    let mut arr3:[&str;3]=["";3];
     println!("{:?}", arr3);
 
     // 获取数长度
@@ -32,5 +32,20 @@ fn main() {
     arr4[0] = 4;
     println!("{:?}", arr4);
 
-    
+    //作为参数传递
+    print_array(arr3);
+    println!("{:?}", arr3);
+    hello0(&mut arr3);
+    println!("{:?}", arr3);
+}
+
+// 数组可以作为参数 值传递
+fn print_array(arr: [&str; 3]) {
+    println!("{:?}", arr);
+}
+
+
+// 数组作为参数 引用传递
+fn hello0(arr: &mut [&str; 3]) {
+    arr[0] = "hello";
 }
