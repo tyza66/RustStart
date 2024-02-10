@@ -10,6 +10,7 @@ fn main() {
     first_word(s1);
     first_word1(&mut v);
     println!("v:{:?}",v[0]);
+    // 除了字符串以外，线性数组也支持切片
 }
 
 // 切片可以用来当作参数
