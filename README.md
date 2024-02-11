@@ -2,7 +2,7 @@
 - Rust入门
 - 前几期使用的IDE是VSCode，后面使用IDE是Go Land
   
-## 目录
+### 目录
 - C1：Hello World
 - C2：变量类型和变量定义
 - C3：常量
