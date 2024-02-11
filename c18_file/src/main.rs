@@ -1,5 +1,5 @@
 use std::fs::OpenOptions;
-use std::io::Write;
+use std::io::{Read, Write};
 
 fn main() {
     // 打开文件
@@ -23,4 +23,10 @@ fn main() {
     file.write_all("Rust".as_bytes()).expect("创建失败");
     file.write_all("Rust".as_bytes()).expect("创建失败");
     println!("数据已写入完毕");
+
+    // 读取内容
+    let mut file = std::fs::File::open("data.txt").unwrap();
+    let mut contents = String::new();
+    file.read_to_string(&mut contents).unwrap();
+    print!("{}", contents);
 }
