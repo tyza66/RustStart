@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/c11_ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c12_slice/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c13_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c14_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c15_collection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c16_generic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c3_variable2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c4_variable4/src" isTestSource="false" />
@@ -19,6 +22,9 @@
       <excludeFolder url="file://$MODULE_DIR$/c11_ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/c12_slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/c13_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c14_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c15_collection/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c16_generic/target" />
       <excludeFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/target" />
       <excludeFolder url="file://$MODULE_DIR$/c3_variable2/target" />
       <excludeFolder url="file://$MODULE_DIR$/c4_variable4/target" />
