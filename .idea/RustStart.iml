@@ -16,6 +16,16 @@
       <sourceFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c20_closure/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c21_thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c22_error/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c23_smartpointer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c24_modules/mylib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c24_modules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c25_virableband/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c26_typesystem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c27_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c28_let/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c29_async-await/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c30_webproject/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c3_variable2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c4_variable4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c5_operator/src" isTestSource="false" />
@@ -36,6 +46,15 @@
       <excludeFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/target" />
       <excludeFolder url="file://$MODULE_DIR$/c20_closure/target" />
       <excludeFolder url="file://$MODULE_DIR$/c21_thread/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c22_error/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c23_smartpointer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c24_modules/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c25_virableband/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c26_typesystem/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c27_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c28_let/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c29_async-await/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c30_webproject/target" />
       <excludeFolder url="file://$MODULE_DIR$/c3_variable2/target" />
       <excludeFolder url="file://$MODULE_DIR$/c4_variable4/target" />
       <excludeFolder url="file://$MODULE_DIR$/c5_operator/target" />
