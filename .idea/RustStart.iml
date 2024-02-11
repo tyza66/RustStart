@@ -12,7 +12,9 @@
       <sourceFolder url="file://$MODULE_DIR$/c16_generic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c17_io/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c18_file/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c19_iterator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c20_closure/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c3_variable2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c4_variable4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c5_operator/src" isTestSource="false" />
@@ -29,7 +31,9 @@
       <excludeFolder url="file://$MODULE_DIR$/c16_generic/target" />
       <excludeFolder url="file://$MODULE_DIR$/c17_io/target" />
       <excludeFolder url="file://$MODULE_DIR$/c18_file/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c19_iterator/target" />
       <excludeFolder url="file://$MODULE_DIR$/c1_helloworld/c5_operator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c20_closure/target" />
       <excludeFolder url="file://$MODULE_DIR$/c3_variable2/target" />
       <excludeFolder url="file://$MODULE_DIR$/c4_variable4/target" />
       <excludeFolder url="file://$MODULE_DIR$/c5_operator/target" />
