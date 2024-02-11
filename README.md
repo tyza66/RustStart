@@ -1,6 +1,6 @@
 # RustStart
 - Rust入门
-- 前几期使用IDE是VSCode，后面使用IDE是Go Land
+- 前几期使用的IDE是VSCode，后面使用IDE是Go Land
   
 ## 目录
 - C1：Hello World
